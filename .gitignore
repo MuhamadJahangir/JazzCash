@@ -1,0 +1,30 @@
+# Build artifacts
+*.o
+*.so
+*.a
+*.dll
+*.elf
+*.d
+*.pdb
+*.idb
+*.lst
+*.map
+
+# IDE-specific files
+*.suo
+*.user
+*.vcxproj.user
+*.vssettings
+*.sln.suo
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# JazzCash-specific 
+*.jks # Keystore files
+*.keystore # Keystore files
+*.cer # Certificate files
+*.p12 # Personal certificate files
+*.pfx # Personal certificate files
